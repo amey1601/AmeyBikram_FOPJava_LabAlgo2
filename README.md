@@ -7,12 +7,12 @@ LAB SESSION 2 ASSIGNMENT:
 
     srs/gl/com-
   
-         transaction- Transaction.JAVA 
-          this file contains the answer to the first question of the assignment.
+          TRANSACTION - Transaction.JAVA 
+          this file contains the answer to  QUESTION 1 of the assignment.
 
         QUESTION 2: This folder contains the answer to the second question.
         
-          DENOMINATION - currency.java    with the main method
+          DENOMINATION - currency.java    with the main method for QUESTION 2.
           
           MERGESORT - MergeSort.jaca     merge sort algo 
           
